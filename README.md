@@ -15,7 +15,7 @@ Other benefits to Anaconda:
   * A Learning section in the application that is very useful
   * Ability to download libraries for many of the advanced topics below
 
-### Actually writing Python
+### Writing Python
 Launch python at the command line and interact with it first. Most tutorials will expect you are doing this. Use the command prompt on Windows, or Terminal on Mac. If you are on Linux, I assume you know what you need to do here.
 
 If you want an Interactive Development Environment to write, run, debug code, try this application from Microsoft - it's multi-platform, lightweight, and very nice.
