@@ -40,7 +40,7 @@ Jupyter notebooks blend concepts of a python interpreter with a documentation to
   * https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
   * https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.bsR1O5g
   
-You can also use iPython from the Command Line or Terminal
+iPython has similarities with Jupyter, but is typically run from the the Command Line or Terminal
   * https://ipython.org/install.html
   
 ### Combining R and Python
