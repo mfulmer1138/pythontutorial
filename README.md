@@ -22,7 +22,7 @@ If you want an Interactive Development Environment to write, run, debug code, tr
   * https://code.visualstudio.com/?utm_expid=101350005-35.Eg8306GUR6SersZwpBjURQ.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F
 
 ### Basic Python Understanding
-The Python standard tutorial - uses the command line
+The Python standard tutorial - uses the terminal or commandline, though it is written with a Unix/Mac focus
   * https://docs.python.org/3/tutorial/
 
 A more interactive tutorial - has it's own editor - good first place to go before downloading anything
