@@ -14,16 +14,20 @@ If your goal is to use Python to explore data, or do reserach, I recommend insta
 
 ### Actually writing Python
 Launch python at the command line and interact with it first. Most tutorials will expect you are doing this. Use the command prompt on Windows, or Terminal on Mac. If you are on Linux, I assume you know what you need to do here.
+
 If you want an Interactive Development Environment to write, run, debug code, try this from Microsoft - it's multi-platform, lightweight, and very nice.
   * https://code.visualstudio.com/?utm_expid=101350005-35.Eg8306GUR6SersZwpBjURQ.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F
 
 ### Basic Python Understanding
 The Python standard tutorial - uses the command line
   * https://docs.python.org/3/tutorial/
+
 A more interactive tutorial - has it's own editor - good first place to go before downloading anything
   * https://www.codecademy.com/learn/python 
+
 The docs - when you want to know the specifics of the language and modules:
   * https://www.python.org/doc/
+
 Also a good tutorial - has some interesting sections on unittesting (and test driven development, more generally)
   * http://www.diveintopython3.net
   * http://www.diveintopython3.net/unit-testing.html
@@ -33,7 +37,7 @@ Jupyter notbook blend the concept of a python interpreter with a documentation t
   * https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
   * https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.bsR1O5g
 
-## Other advanced concerns. Including for completeness or for interesting reads
+## Other advanced concerns
 
 ### Python with Amazon AWS:
 Depends on your needs, but useful information on the boto3 library used for interacting with AWS resources.
@@ -52,6 +56,7 @@ If your preference is Google Cloud vs. Amazon...
 If RESTful services ever become a need or an interest
   * https://falconframework.org
   * http://www.django-rest-framework.org
+
 Also - a tool for testing...
   * https://www.getpostman.com
 
