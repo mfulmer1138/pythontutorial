@@ -32,27 +32,27 @@ Also a good tutorial - has some interesting sections on unittesting (and test dr
   * http://www.diveintopython3.net
   * http://www.diveintopython3.net/unit-testing.html
 
-### Data Science - Using Python with Jupyter/iPython:
+### Data Science - Using Python with Jupyter/iPython
 Jupyter notbook blend the concept of a python interpreter with a documentation tool. This is available with the Anaconda installation  
   * https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
   * https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.bsR1O5g
 
 ## Other advanced concerns
 
-### Python with Amazon AWS:
+### Python with Amazon AWS
 Depends on your needs, but useful information on the boto3 library used for interacting with AWS resources.
   * https://aws.amazon.com/sdk-for-python/
 
-### Python on Google Cloud:
+### Python on Google Cloud
 If your preference is Google Cloud vs. Amazon...
   * https://cloud.google.com/appengine/docs/python/
 
 ### Database development:
-  * I won't cover the actual databases here, but these pages should give you some links to get you going, depending on what you need to do. It's rarely long before someone needs to get data in or out of a database. 
-    * https://www.fullstackpython.com/databases.html
-    * https://api.mongodb.com/python/current/
+I won't cover the actual databases here, but these pages should give you some links to get you going, depending on what you need to do. It's rarely long before someone needs to get data in or out of a database. 
+  * https://www.fullstackpython.com/databases.html
+  * https://api.mongodb.com/python/current/
 
-### Web Services:
+### Web Services
 If RESTful services ever become a need or an interest
   * https://falconframework.org
   * http://www.django-rest-framework.org
@@ -60,7 +60,7 @@ If RESTful services ever become a need or an interest
 Also - a tool for testing...
   * https://www.getpostman.com
 
-## User Interface development:
+### User Interface development
 If you ever wanted to create something web enabled with Python
   * https://www.djangoproject.com
   * There are others, but this is one I have used and like.
