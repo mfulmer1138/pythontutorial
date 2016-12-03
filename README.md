@@ -51,7 +51,7 @@ Depends on your needs, but useful information on the boto3 library used for inte
 If your preference is Google Cloud vs. Amazon...
   * https://cloud.google.com/appengine/docs/python/
 
-### Database development:
+### Database Development:
 I won't cover the actual databases here, but these pages should give you some links to get you going, depending on what you need to do. It's rarely long before someone needs to get data in or out of a database. 
   * https://www.fullstackpython.com/databases.html
   * https://api.mongodb.com/python/current/
@@ -64,13 +64,13 @@ If RESTful services ever become a need or an interest
 Also - a tool for testing...
   * https://www.getpostman.com
 
-### User Interface development
+### Web User Interface Development
 If you ever wanted to create something web enabled with Python
   * https://www.djangoproject.com
 
 There are others, but this is one I have used and like.
     
-### Installation tools
+### Installation Tools
 Not critical or necessary, but if you want to isolate your Python installation and the libraries you download, you can look at virtualenv. I will use this to help keep track of the libraries I need for a specific project.
   * https://virtualenv.pypa.io/en/stable/installation/
 
