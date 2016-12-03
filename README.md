@@ -34,9 +34,12 @@ Also a good tutorial - has some interesting sections on unittesting (and test dr
   * http://www.diveintopython3.net/unit-testing.html
 
 ### Data Science - Using Python with Jupyter/iPython
-Jupyter notbook blend the concept of a python interpreter with a documentation tool. This is available with the Anaconda installation  
+Jupyter notebooks blend concepts of a python interpreter with a documentation tool all in a web interface. This is available with the Anaconda installation  
   * https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
   * https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.bsR1O5g
+  
+You can also use iPython from the Command Line or Terminal
+  * https://ipython.org/install.html
 
 ## Other advanced concerns
 
