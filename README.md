@@ -69,5 +69,5 @@ There are others, but this is one I have used and like.
     
 ### Installation tools
 Not critical or necessary, but if you want to isolate your Python installation and the libraries you download, you can look at virtualenv. I will use this to help keep track of the libraries I need for a specific project.
-  * https://virtualenv.pypa.io/en/stable/installation/
+  * https://virtualenv.pypa.io/en/stable/installation/
 
