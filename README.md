@@ -42,6 +42,16 @@ Jupyter notebooks blend concepts of a python interpreter with a documentation to
   
 You can also use iPython from the Command Line or Terminal
   * https://ipython.org/install.html
+  
+### Combining R and Python
+While this is a fairly advanced topic, if data science is an interest, R is probably an interest as well. ```RPy2``` allows one to leverage the power of R from Python, iPython, and Jupyter.
+  * https://rpy2.bitbucket.io
+  
+For installation instructions, see here.
+  * http://rpy2.readthedocs.io/en/version_2.8.x/overview.html#install-installation
+
+You may notice the recommendation to use Docker containers. Docker is beyond the scope of this README, but does make obtaining pre-built deployments of this and other applications (e.g., databases) very simple.
+  * https://www.docker.com
 
 ## Other advanced concerns
 
