@@ -1,8 +1,9 @@
-# pythontutorial
-Getting started with Python
+# Python Tutorial
+Recommendations on getting started with Python.
 
-I'll upload samples files for topics as they are requested.
+As this project develops, I can upload samples files for topics as they are requested.
 
+With the information here - you should have more than enough tools to know "the next questions to ask." Equipped with this information, your Google and Youtube searches should get you where you want to go.
 
 ### Getting Python - Option 1
 You probably want Python 3.5.x. I would only want to use Python 2.7.x if I needed a 3rd party library that hasn't been written in Python 3 yet or if I was already forced to use Python 2.7 because that was the only version available to me.
@@ -69,4 +70,3 @@ If you ever wanted to create something web enabled with Python
 Not critical or necessary, but if you want to isolate your Python installation and the libraries you download, you can look at virtualenv. I will use this to help keep track of the libraries I need for a specific project.
   * https://virtualenv.pypa.io/en/stable/installation/
 
-With the information here - you should have more than enough tools to know "the next questions to ask." Equipped with this information, your Google and Youtube searches should get you where you want to go.
