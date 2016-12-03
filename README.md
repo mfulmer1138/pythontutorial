@@ -10,6 +10,8 @@ You probably want Python 3.5.x. I would only use Python 2.7.x if you need a 3rd 
 ### Getting Python - Option 2
 If your goal is to use Python to explore data, or do reserach, I recommend installing Anaconda. This is an easy way to get both Python and a rich set of tools for data science and documentation preparation.
   * https://www.continuum.io/downloads
+  
+Anaconda also has a Learning section in the application that is very useful.
 
 ### Actually writing Python
 Launch python at the command line and interact with it first. Most tutorials will expect you are doing this. Use the command prompt on Windows, or Terminal on Mac. If you are on Linux, I assume you know what you need to do here.
