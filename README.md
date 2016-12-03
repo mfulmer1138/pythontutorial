@@ -1,7 +1,7 @@
 # Python Tutorial
-Recommendations on getting started with Python.
+*Recommendations on getting started with Python.*
 
-As this project develops, I can upload samples files for topics as they are requested.
+> As this project develops, I can upload samples files for topics as they are requested.
 
 With the information here - you should have more than enough tools to know "the next questions to ask." Equipped with this information, your Google and Youtube searches should get you where you want to go.
 
