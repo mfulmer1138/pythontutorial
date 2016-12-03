@@ -12,8 +12,8 @@ If your goal is to use Python to explore data, or do reserach, I recommend insta
   * https://www.continuum.io/downloads
   
 Other benefits to Anaconda:
-  * A Learning section in the application that is very useful
-  * Ability to download libraries for many of the advanced topics below
+  * A Learning section in the application that is very useful.
+  * Ability to download libraries for many of the advanced topics below.
 
 ### Writing Python
 Launch python at the command line and interact with it first. Most tutorials will expect you are doing this. Use the command prompt on Windows, or Terminal on Mac. If you are on Linux, I assume you know what you need to do here.
@@ -22,25 +22,25 @@ If you want an Interactive Development Environment to write, run, debug code, tr
   * https://code.visualstudio.com/?utm_expid=101350005-35.Eg8306GUR6SersZwpBjURQ.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F
 
 ### Basic Python Understanding
-The Python standard tutorial - uses the terminal or commandline, though it is written with a Unix/Mac focus
+The Python standard tutorial - uses the terminal or commandline, though it is written with a Unix/Mac focus.
   * https://docs.python.org/3/tutorial/
 
-A more interactive tutorial - has it's own editor - good first place to go before downloading anything
+A more interactive tutorial - has it's own editor - good first place to go before downloading anything.
   * https://www.codecademy.com/learn/python 
 
-The docs - when you want to know the specifics of the language and modules:
+The docs - when you want to know the specifics of the language and modules.
   * https://www.python.org/doc/
 
-Dive Into Python lso a good tutorial - and has some interesting sections on unittesting (and test driven development, more generally)
+Dive Into Python also a good tutorial - and has some interesting sections on unittesting (and test driven development, more generally).
   * http://www.diveintopython3.net
   * http://www.diveintopython3.net/unit-testing.html
 
 ### Data Science - Using Python with Jupyter/iPython
-Jupyter notebooks blend concepts of a python interpreter with a documentation tool all in a web interface. This is available with the Anaconda installation  
+Jupyter notebooks blend concepts of a python interpreter with a documentation tool all in a web interface. This is available with the Anaconda installation and can be launched directly from the Anaconda Navigator.
   * https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
   * https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.bsR1O5g
   
-iPython has similarities with Jupyter, but is typically run from the the Command Line or Terminal
+iPython has similarities with Jupyter, but is typically run from the the Command Line or Terminal.
   * https://ipython.org/install.html
   
 ### Combining R and Python
@@ -69,7 +69,7 @@ I won't cover the actual databases here, but these pages should give you some li
   * https://api.mongodb.com/python/current/
 
 ### Web Services
-If RESTful services ever become a need or an interest
+If RESTful services ever become a need or an interest.
   * https://falconframework.org
   * http://www.django-rest-framework.org
 
@@ -77,7 +77,7 @@ Also - a tool for testing...
   * https://www.getpostman.com
 
 ### Web User Interface Development
-If you ever wanted to create something web enabled with Python
+If you ever wanted to create something web enabled with Python.
   * https://www.djangoproject.com
 
 There are others, but this is one I have used and like.
