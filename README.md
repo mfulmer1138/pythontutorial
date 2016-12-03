@@ -16,7 +16,7 @@ If your goal is to use Python to explore data, or do reserach, I recommend insta
 ### Actually writing Python
 Launch python at the command line and interact with it first. Most tutorials will expect you are doing this. Use the command prompt on Windows, or Terminal on Mac. If you are on Linux, I assume you know what you need to do here.
 
-If you want an Interactive Development Environment to write, run, debug code, try this from Microsoft - it's multi-platform, lightweight, and very nice.
+If you want an Interactive Development Environment to write, run, debug code, try this application from Microsoft - it's multi-platform, lightweight, and very nice.
   * https://code.visualstudio.com/?utm_expid=101350005-35.Eg8306GUR6SersZwpBjURQ.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F
 
 ### Basic Python Understanding
