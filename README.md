@@ -31,7 +31,7 @@ A more interactive tutorial - has it's own editor - good first place to go befor
 The docs - when you want to know the specifics of the language and modules:
   * https://www.python.org/doc/
 
-Also a good tutorial - has some interesting sections on unittesting (and test driven development, more generally)
+Dive Into Python lso a good tutorial - and has some interesting sections on unittesting (and test driven development, more generally)
   * http://www.diveintopython3.net
   * http://www.diveintopython3.net/unit-testing.html
 
