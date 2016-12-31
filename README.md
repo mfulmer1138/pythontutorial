@@ -4,7 +4,7 @@
 > As this project develops, I can upload samples files for topics as they are requested.
 
 ### Getting Python - Option 1
-You probably want Python 3.5.x. I would only use Python 2.7.x if you need a 3rd party library that hasn't been written in Python 3 yet or if there was some other reason your system was limited to Python 2.7.
+You probably want Python 3.5.x (or 3.6 - it was recently released). I would only use Python 2.7.x if you need a 3rd party library that hasn't been written in Python 3 yet or if there was some other reason your system was limited to Python 2.7.
   * https://www.python.org/downloads/
 
 ### Getting Python - Option 2
